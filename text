@@ -1,1 +1,30 @@
-
+mi-curso-entrevista-motivacional/
+├── README.md
+├── LICENSE
+├── CITATION.cff
+├── .gitignore
+├── docs/
+│   ├── index.md
+│   ├── fundamentos/
+│   │   ├── modulo-1.md
+│   │   ├── modulo-2.md
+│   │   └── modulo-3.md
+│   ├── avanzado/
+│   │   ├── modulo-avanzado-1.md
+│   │   ├── modulo-avanzado-2.md
+│   │   └── modulo-avanzado-3.md
+│   ├── referencias/
+│   │   └── bibliografia-apa.md
+│   └── anexos/
+│       ├── casos-clinicos.md
+│       └── instrumentos-fidelidad.md
+├── html/
+│   ├── curso.html
+│   └── assets/
+│       ├── css/
+│       └── js/
+├── assets/
+│   ├── images/
+│   └── icons/
+└── references/
+    └── fuentes.md
